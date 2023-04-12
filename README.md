@@ -76,7 +76,7 @@ Gson uses Maven to build the project:
 mvn clean verify
 ```
 
-JDK 11 or newer is required for building, JDK 17 is recommended.
+JDK 12 or newer is required for building, JDK 17 is recommended.
 
 ### Contributing
 
